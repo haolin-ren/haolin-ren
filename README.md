@@ -1,5 +1,8 @@
 # Hi, I'm Haolin Ren (任昊霖)
 
+[![CASIA](https://img.shields.io/badge/Insitute_Of_Automation-CAS-0A3761?style=for-the-badge)](http://www.ia.cas.cn/)
+[![UCAS](https://img.shields.io/badge/UCAS-CAS-0A3761?style=for-the-badge)](https://www.ucas.ac.cn/)
+
 ## About Me
 
 Currently, I'm focusing on AI agents, and I'm passionate about next-gen architectures and the post-Transformer era.
