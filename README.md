@@ -1,14 +1,22 @@
-# 👋 Hi, I'm Haolin Ren (任昊霖)
+# Hi, I'm Haolin Ren (任昊霖)
 
-🎓 **Undergraduate @ University of Chinese Academy of Sciences (UCAS)**  
-- 📧 Email1: `renhaolin22@mails.ucas.ac.cn`
-- 📧 Email2: `haolinren0309@gmail.com`  
-📚 Major in Computer Science & Technology  
-🎯 Incoming Direct PhD @ **CASIA (Fall 2026)**, directed by Prof.Kang Liu
+## About Me
 
----
+Currently, I'm focusing on AI agents, and I'm passionate about next-gen architectures and the post-Transformer era.
 
-## 🔬 Research Interests
-- 🧠 **Large Language Models (LLMs)**: reasoning efficiency, token-level optimization  
-- 📊 **Reinforcement Learning (RL)**: RLHF, structured reasoning  
-- ⚙️ **LLM Arch**: better transformer, brain-like llms
+## Education
+
+Incoming PhD @ Insitute of Automation, CAS (Fall 2026), directed by Prof.Kang Liu
+
+Undergraduate @ University of Chinese Academy of Sciences, CAS
+
+Visiting Student @ University of California, Berkeley
+
+## Get in touch
+
+Feel free to contact me if we share same research interests. [renhaolin22@mails.ucas.ac.cn][renhaolin2026@ia.ac.cn]
+
+
+
+
+
