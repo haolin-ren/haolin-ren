@@ -5,7 +5,7 @@
 
 ## About Me
 
-Currently, I'm focusing on AI agents, and I'm passionate about next-gen architectures and the post-Transformer era.
+Currently, I'm focusing on AI agents and diffusion language models, and I'm passionate about next-gen architectures and the post-Transformer era.
 
 ## Education
 
